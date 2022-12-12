@@ -13,6 +13,7 @@
     "axios": "^1.2.0",
     "axois": "^0.0.1-security",
     "compile-run": "^2.3.4",
+    "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "mongoose": "^6.7.2",
